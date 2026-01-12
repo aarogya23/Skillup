@@ -36,4 +36,4 @@ SkillUp is a **modern online learning platform** built with **React**. This proj
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/skillup-react.git
+git clone https://github.com/aarogya23/Skillup/tree/main/Skill-up
